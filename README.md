@@ -23,3 +23,6 @@ Interactive Excel dashboard built using Pivot Tables, Charts, Macros and Form Co
 
 ## Demo Video
 [Watch Dashboard Demo](https://github.com/manasvisky/sales-performance-excel-dashboard/releases/tag/v1.0)
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
