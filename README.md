@@ -20,3 +20,6 @@ Interactive Excel dashboard built using Pivot Tables, Charts, Macros and Form Co
 2. Open in Excel
 3. Enable Macros
 4. Use buttons and checkboxes
+
+## Demo Video
+[Watch Dashboard Demo](https://github.com/manasvisky/sales-performance-excel-dashboard/releases/tag/v1.0)
